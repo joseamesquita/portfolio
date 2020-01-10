@@ -1,6 +1,8 @@
 h1 {
     text-align: center;
     color: white;
+    font-size: 400%;
+    margin-bottom: 1%;
 }
 
 .center {
@@ -14,3 +16,18 @@ body{
     background-color: darkcyan; 
 }
 
+nav li {
+    display: inline;
+    padding: 5px;
+    font-family: helvetica;
+    font-size: 20px;
+    color: white;
+    text-decoration: none;
+    /* text-align: center; */
+  }
+
+  nav {
+      text-align: center;
+      /* margin-top: auto; */
+      margin-bottom: 2%;
+  }
