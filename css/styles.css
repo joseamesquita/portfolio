@@ -13,7 +13,8 @@ h1 {
 }
 
 img {
-    float: left;
+    float: right;
+   
 }
 
 body{
@@ -81,4 +82,8 @@ h2 {
 
   p .tab {
     margin-left: 40px;
+  }
+
+  .mid {
+      text-align: center;
   }
