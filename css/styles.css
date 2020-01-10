@@ -39,6 +39,7 @@ nav li {
 
   h2 {
       color: white;
+      text-align: left;
   }
   
   .info {
@@ -61,3 +62,14 @@ nav li {
      
   }
 
+  h3 {
+      color: white;
+  }
+
+  ul li {
+      color: white;
+  }
+
+  .tab {
+      margin-left: 40px;
+  }
