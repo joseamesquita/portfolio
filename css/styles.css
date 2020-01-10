@@ -72,4 +72,9 @@ nav li {
 
   .tab {
       margin-left: 40px;
+      color: white;
+  }
+
+  p .tab {
+    margin-left: 40px;
   }
