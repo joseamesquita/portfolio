@@ -36,3 +36,15 @@ nav li {
       color: white;
       text-align: center;
   }
+
+  h2 {
+      color: white;
+  }
+  
+  .info {
+      text-align: left;
+  }
+
+  .order {
+      color: white;
+  }
