@@ -12,6 +12,10 @@ h1 {
     width: 50%;
 }
 
+img {
+    float: left;
+}
+
 body{
     background-color: darkcyan; 
 }
@@ -26,36 +30,36 @@ nav li {
     /* text-align: center; */
   }
 
-  nav {
+nav {
       text-align: center;
       /* margin-top: auto; */
       margin-bottom: 2%;
-  }
+}
 
-  p {
-      color: white;
-      text-align: center;
-  }
+p {
+    color: white;
+    text-align: center;
+}
 
-  h2 {
-      color: white;
-      text-align: left;
-  }
-  
-  .info {
-      text-align: left;
-  }
+h2 {
+    color: white;
+    text-align: left;
+}
 
-  .order {
-      color: white;
-  }
+.info {
+    text-align: left;
+}
 
-  .island {
-      text-align: left;
-      color: darkcyan;
-      
+.order {
+    color: white;
+}
 
-  }
+.island {
+    text-align: left;
+    color: darkcyan;
+    
+
+}
 
 .background {
       text-align: left;
