@@ -11,7 +11,7 @@ _This Independent Project creates a portfolio webpage using HTML and CSS.This pr
 ## Setup/Installation Requirements
 
 * visit https://github.com/joseamesquita/portfolio to view the code 
-* visit to view the webpage
+* visit https://joseamesquita.github.io/portfolio/index.html to view the webpage
 
 ## Known Bugs
 
