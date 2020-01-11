@@ -23,7 +23,7 @@ _Email: joseamesquita11@gmail.com_
 
 ## Technologies Used
 
-_HTML & CSS_
+_HTML, CSS, and GIT_
 
 ### License
 
