@@ -12,12 +12,12 @@ h1 {
     width: 50%;
 }
 
-img {
-    float: right;
-   
+.section {
+    float: left;
 }
 
 body{
+    font-family: sans-serif;
     background-color: darkcyan; 
 }
 
@@ -28,12 +28,11 @@ nav li {
     font-size: 20px;
     color: white;
     text-decoration: none;
-    /* text-align: center; */
+
   }
 
 nav {
       text-align: center;
-      /* margin-top: auto; */
       margin-bottom: 2%;
 }
 
@@ -43,7 +42,7 @@ p {
 }
 
 h2 {
-    color: white;
+    color: black;
     text-align: left;
 }
 
@@ -58,32 +57,37 @@ h2 {
 .island {
     text-align: left;
     color: darkcyan;
-    
 
-}
 
 .background {
-      text-align: left;
+    text-align: left;
      
   }
 
-  h3 {
+h3 {
+    color: white;
+  }
+
+ul li {
       color: white;
   }
 
-  ul li {
-      color: white;
+.tab {
+    margin-left: 40px;
+    color: white;
   }
 
-  .tab {
-      margin-left: 40px;
-      color: white;
-  }
-
-  p .tab {
+p .tab {
     margin-left: 40px;
   }
 
-  .mid {
-      text-align: center;
+.mid {
+    text-align: center;
+  }
+
+.my-class {
+    margin: 12px;
+    border: 2px solid white;
+    padding: 4px;
+    background-color: black;
   }
