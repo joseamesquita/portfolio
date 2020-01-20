@@ -1,3 +1,8 @@
+head a, a:link, a:hover, a:focus, a:active, a:visited {
+      color: white;
+      text-decoration: none;
+}
+
 h1 {
     text-align: center;
     color: white;
@@ -13,7 +18,7 @@ h1 {
 }
 
 .section {
-    float: left;
+    float: right;
 }
 
 body{
@@ -21,12 +26,17 @@ body{
     background-color: darkcyan; 
 }
 
-nav li {
+body nav li {
     display: inline;
     padding: 5px;
     font-family: helvetica;
     font-size: 20px;
     color: white;
+    text-decoration: none;
+
+  }
+
+body nav li a{
     text-decoration: none;
 
   }
@@ -37,39 +47,46 @@ nav {
 }
 
 p {
-    color: white;
+    color: black;
     text-align: center;
 }
-
-h2 {
-    color: black;
+div p {
+  color: white;
+}
+body div h2 {
+    color: white;
     text-align: left;
 }
 
 .info {
     text-align: left;
+    color: white;
 }
 
 .order {
     color: white;
 }
 
+.text {
+  color: black;
+}
+
 .island {
     text-align: left;
     color: darkcyan;
 
-
+}
 .background {
     text-align: left;
      
-  }
+}
 
 h3 {
     color: white;
   }
 
 ul li {
-      color: white;
+      color: black;
   }
 
 .tab {
@@ -87,7 +104,6 @@ p .tab {
 
 .my-class {
     margin: 12px;
-    border: 2px solid white;
     padding: 4px;
-    background-color: black;
+    color: white;
   }
